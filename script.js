@@ -15,6 +15,8 @@ const camisetas = [
   { equipo: "Real Betis", referencia: "Camiseta 14", stock: true, imagen: "betis6.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 15", stock: true, imagen: "betis7.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 16", stock: true, imagen: "betis8.jpg" },
+  { equipo: "Real Betis", referencia: "Camiseta 50", stock: true, imagen: "betis9.jpg" },
+  { equipo: "Real Betis", referencia: "Camiseta 51", stock: true, imagen: "betis10.jpg" },
   { equipo: "Boca Juniors", referencia: "Camiseta 17", stock: true, imagen: "bocajuniors.jpg" },
   { equipo: "España", referencia: "Camiseta 18", stock: true, imagen: "españa1.jpg" },
   { equipo: "España", referencia: "Camiseta 19", stock: true, imagen: "españa2.jpg" },
