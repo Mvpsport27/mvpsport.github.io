@@ -1,6 +1,5 @@
 const camisetas = [
   { equipo: "Argentina", referencia: "Camiseta 1", stock: true, imagen: "argentina.jpg" },
-  { equipo: "Argentina", referencia: "Camiseta 1", stock: true, imagen: "argentina.jpg" },
   { equipo: "FC Barcelona", referencia: "Camiseta 2", stock: true, imagen: "barsa1.jpg" },
   { equipo: "FC Barcelona", referencia: "Camiseta 3", stock: true, imagen: "barsa2.jpg" },
   { equipo: "FC Barcelona", referencia: "Camiseta 4", stock: true, imagen: "barsa3.jpg" },
