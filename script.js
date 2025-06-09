@@ -9,6 +9,7 @@ const camisetas = [
   { equipo: "FC Barcelona", referencia: "Camiseta 8", stock: true, imagen: "barsa7.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 9", stock: true, imagen: "betis1.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 10", stock: true, imagen: "betis2.jpg" },
+   { equipo: "Real Betis", referencia: "Camiseta 130", stock: true, imagen: "betis11.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 11", stock: true, imagen: "betis3.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 12", stock: true, imagen: "betis4.jpg" },
   { equipo: "Real Betis", referencia: "Camiseta 13", stock: true, imagen: "betis5.jpg" },
