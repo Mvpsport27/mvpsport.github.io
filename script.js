@@ -22,6 +22,7 @@ const camisetas = [
   { equipo: "España", referencia: "Camiseta 19", stock: true, imagen: "españa2.jpg" },
   { equipo: "España", referencia: "Camiseta 20", stock: true, imagen: "españa3.jpg" },
   { equipo: "España", referencia: "Camiseta 21", stock: true, imagen: "españa4.jpg" },
+  { equipo: "España", referencia: "Camiseta 84", stock: true, imagen: "españa5.jpg" },
   { equipo: "Francia", referencia: "Camiseta 22", stock: true, imagen: "francia.jpg" },
   { equipo: "Real Betis - Joaquín", referencia: "Camiseta 23", stock: true, imagen: "juaquin.jpg" },
   { equipo: "Messi", referencia: "Camiseta 24", stock: true, imagen: "messi.jpg" },
